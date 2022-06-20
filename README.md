@@ -1,1 +1,1 @@
-# imhofmarc-MLP-Regressor-from-scratch-for-time-series
+# MLP-Regressor-from-scratch-for-time-series
